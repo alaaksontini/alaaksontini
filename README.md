@@ -1,16 +1,17 @@
-## Hi there 👋
+# Alaa Ksontini
 
-<!--
-**alaaksontini/alaaksontini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior backend engineer. I build the deterministic data pipelines that make
+LLM features work in production: ingestion, validation, and orchestration
+underneath the model, plus the custom agents on top that do the reasoning.
 
-Here are some ideas to get you started:
+About 8 years shipping backend systems. 2.5+ years on production LLM features.
+Casablanca, remote EU/US
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Stack:** Node.js/TypeScript · PHP · Python · Postgres/pgvector ·
+LangChain · LangGraph · Mastra · MageAI
+
+**What I'm known for:** replacing a paid SaaS middleware layer with owned
+pipeline code, with validation and business rules in code, model sees only clean input.
+
+- LinkedIn: linkedin.com/in/alaa-ksontini-8a197683
+- Open to senior backend/AI roles and scoped freelance work
